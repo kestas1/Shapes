@@ -1,0 +1,10 @@
+H:\My Documents\development\GitHub\Week2\Shapes\bin\Debug\netcoreapp2.0\Shapes.deps.json
+H:\My Documents\development\GitHub\Week2\Shapes\bin\Debug\netcoreapp2.0\Shapes.runtimeconfig.json
+H:\My Documents\development\GitHub\Week2\Shapes\bin\Debug\netcoreapp2.0\Shapes.runtimeconfig.dev.json
+H:\My Documents\development\GitHub\Week2\Shapes\bin\Debug\netcoreapp2.0\Shapes.dll
+H:\My Documents\development\GitHub\Week2\Shapes\bin\Debug\netcoreapp2.0\Shapes.pdb
+H:\My Documents\development\GitHub\Week2\Shapes\obj\Debug\netcoreapp2.0\Shapes.csproj.CoreCompileInputs.cache
+H:\My Documents\development\GitHub\Week2\Shapes\obj\Debug\netcoreapp2.0\Shapes.AssemblyInfoInputs.cache
+H:\My Documents\development\GitHub\Week2\Shapes\obj\Debug\netcoreapp2.0\Shapes.AssemblyInfo.cs
+H:\My Documents\development\GitHub\Week2\Shapes\obj\Debug\netcoreapp2.0\Shapes.dll
+H:\My Documents\development\GitHub\Week2\Shapes\obj\Debug\netcoreapp2.0\Shapes.pdb
